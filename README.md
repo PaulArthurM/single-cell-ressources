@@ -10,6 +10,11 @@
 
 > We have developed DENDRO, a statistical method for tumor phylogeny inference and clonal classification using scRNA-seq data. DENDRO accurately infers the phylogeny relating the cells and assigns each single cell from the scRNA-seq data set to subclone. DENDRO allows us to (1) cluster cells based on genetic divergence while accounting for transcriptional bursting, technical dropout, and sequencing error, as benchmarked by in silico mixture and a simulation analysis; (2) characterize the transcribed mutations for each subclone; and (3) perform single-cell multi-omics analysis by examining the relationship between transcriptomic variation and mutation profile with the same set of cells. Zhou, Z., Xu, B., Minn, A. et al. DENDRO: genetic heterogeneity profiling and subclone detection by single-cell RNA sequencing. Genome Biol 21, 10 (2020). https://doi.org/10.1186/s13059-019-1922-x
 
+- [OncoNEM: inferring tumor evolution from single-cell sequencing data](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0929-9#Sec18) : 
+
+> Single-cell sequencing promises a high-resolution view of genetic heterogeneity and clonal evolution in cancer. However, methods to infer tumor evolution from single-cell sequencing data lag behind methods developed for bulk-sequencing data. Here, we present OncoNEM, a probabilistic method for inferring intra-tumor evolutionary lineage trees from somatic single nucleotide variants of single cells. OncoNEM identifies homogeneous cellular subpopulations and infers their genotypes as well as a tree describing their evolutionary relationships. In simulation studies, we assess OncoNEM’s robustness and benchmark its performance against competing methods. Finally, we show its applicability in case studies of muscle-invasive bladder cancer and essential thrombocythemia. Ross, E.M., Markowetz, F. OncoNEM: inferring tumor evolution from single-cell sequencing data. Genome Biol 17, 69 (2016). https://doi.org/10.1186/s13059-016-0929-9
+
+
 ## Tools
 
 [scRNA-tools](https://www.scrna-tools.org/) : website listing tools related to scRNA-seq
