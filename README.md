@@ -33,6 +33,6 @@ bioRxiv 2019.12.18.881870; doi: https://doi.org/10.1101/2019.12.18.881870
 
 ## Useful Links
 
-- [awesome-single-cell](https://github.com/seandavi/awesome-single-cell)
+- [awesome-single-cell](https://github.com/seandavi/awesome-single-cell) : a github repository listing tools for single-cell analysis.
 
-- [ANALYSIS OF SINGLE CELL RNA-SEQ DATA](https://broadinstitute.github.io/2019_scWorkshop/)
+- [ANALYSIS OF SINGLE CELL RNA-SEQ DATA](https://broadinstitute.github.io/2019_scWorkshop/) : single-cell workshop
