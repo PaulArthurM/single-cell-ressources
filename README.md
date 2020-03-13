@@ -30,3 +30,9 @@ bioRxiv 2019.12.18.881870; doi: https://doi.org/10.1101/2019.12.18.881870
 ## Tools
 
 [scRNA-tools](https://www.scrna-tools.org/) : website listing tools related to scRNA-seq
+
+## Useful Links
+
+- [awesome-single-cell](https://github.com/seandavi/awesome-single-cell)
+
+- [ANALYSIS OF SINGLE CELL RNA-SEQ DATA](https://broadinstitute.github.io/2019_scWorkshop/)
