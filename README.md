@@ -22,6 +22,11 @@
 
 > Systematic interrogation of single-nucleotide variants (SNVs) is one of the most promising approaches to delineate the cellular heterogeneity and phylogenetic relationships at the single-cell level. While SNV detection from abundant single-cell RNA sequencing (scRNA-seq) data is applicable and cost-effective in identifying expressed variants, inferring sub-clones, and deciphering genotype-phenotype linkages, there is a lack of computational methods specifically developed for SNV calling in scRNA-seq. Although variant callers for bulk RNA-seq have been sporadically used in scRNA-seq, the performances of different tools have not been assessed.Liu, F., Zhang, Y., Zhang, L. et al. Systematic comparative analysis of single-nucleotide variant detection methods from single-cell RNA sequencing data. Genome Biol 20, 242 (2019). https://doi.org/10.1186/s13059-019-1863-4
 
+- [Finding a suitable library size to call variants in RNA-seq](https://www.biorxiv.org/content/10.1101/2019.12.18.881870v2) : Preprint
+
+> RNA-Seq allows the study of both gene expression changes and transcribed mutations, providing a highly effective way to gain insight into cancer biology. When planning the sequencing of a large cohort of samples, library size is a fundamental factor affecting both the overall cost and the quality of the results. While several studies analyse the effect that library size has on differential expression analyses, sensitivity analysis for variant detection has received far less attention. Anna Quaglieri, Christoffer Flensburg, Terence P Speed, Ian J Majewski
+bioRxiv 2019.12.18.881870; doi: https://doi.org/10.1101/2019.12.18.881870
+
 ## Tools
 
 [scRNA-tools](https://www.scrna-tools.org/) : website listing tools related to scRNA-seq
